@@ -2,3 +2,7 @@
 Services
 
 	--catalogAPI =>http://localhost:5011
+
+	--identityserver => http://localhost:5001
+
+	-- photostockAPI => http://localhost:5012
