@@ -6,3 +6,5 @@ Services
 	--identityserver => http://localhost:5001
 
 	-- photostockAPI => http://localhost:5012
+
+	-- basketAPI => http://localhost:5013
