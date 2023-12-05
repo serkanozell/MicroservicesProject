@@ -1,0 +1,9 @@
+@FreeCourse.FakePayment_HostAddress = http://localhost:5016
+
+GET {{FreeCourse.FakePayment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{FreeCourse.FakePayment_HostAddress}}/api/FakePayment
+Accept: application/json
